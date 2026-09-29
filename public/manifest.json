@@ -1,0 +1,22 @@
+{
+  "name": "Unified Scholarship Portal",
+  "short_name": "Scholarships",
+  "description": "National Scholarship Application and Verification Portal",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "icons": [
+    {
+      "src": "/assets/emblem.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
